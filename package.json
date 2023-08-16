@@ -1,6 +1,6 @@
 {
-    "name": "sumatestsample",
-    "version": "0.0.1",
+    "name": "suma-test",
+    "version": "0.0.2",
     "description": "test npm",
     "main": "index.js",
     "license": "MIT"
