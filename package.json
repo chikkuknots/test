@@ -1,6 +1,6 @@
 {
     "name": "@zoho/test",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "test npm",
     "main": "index.js",
     "license": "MIT"
